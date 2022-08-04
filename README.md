@@ -1,3 +1,3 @@
 # Digital Clock
-A simple dgital clock using Python.
+A simple digital clock using Python.
 Just download the file, execute the code and you will get a desktop clock...
